@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Villa",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Redux", "Tailwind CSS"],
+    "demo": "https://resonant-platypus-424f98.netlify.app/",
+    "source": "https://github.com/rishabh-prince/Food-Villa"
+  },
+  {
+    "title": "Taskify",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made using React and local storage integration.",
+    "skills": ["React", "CSS"],
+    "demo": "https://incandescent-panda-22ae37.netlify.app/",
+    "source": "https://github.com/rishabh-prince/taskify"
+  },
+  {
+    "title": "Wow weather",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made using React and OpenWeather API.",
+    "skills": ["React", "CSS"],
+    "demo": "https://dancing-palmier-c2d098.netlify.app/",
+    "source": "https://github.com/rishabh-prince/Wow-Weather"
+  }
+]
