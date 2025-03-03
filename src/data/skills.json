@@ -12,15 +12,24 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Node",
+    "imageSrc": "skills/MySQL.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/MySQL.png"
+  },
+  {
+    "title": "MongoDb",
+    "imageSrc": "skills/MySQL.png"
+  },
+  {
     "title": "C language",
     "imageSrc": "skills/c language.png"
   },
   {
     "title": "C++ language",
     "imageSrc": "skills/c++ language.png"
-  },
-  {
-    "title": "MySQL",
-    "imageSrc": "skills/MySQL.png"
   }
+  
 ]

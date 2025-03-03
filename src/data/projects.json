@@ -1,8 +1,35 @@
 [
   {
+    "title": "Connectify",
+    "imageSrc": "projects/project.png",
+    "description": "This is a real time chat application made using MERN stack and socket IO.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Socket.io (web socket)"
+    ],
+    "demo": "https://connectify111.onrender.com/",
+    "source": "https://github.com/rishabh-prince/connectify"
+  },
+  {
+    "title": "Product Store",
+    "imageSrc": "projects/project.png",
+    "description": "This is a product store made using MERN stack in which we can perform CRUD operation on products.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "demo": "https://product-store-sgse.onrender.com/",
+    "source": "https://github.com/rishabh-prince/product-store"
+  },
+  {
     "title": "Food Villa",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to learn the frontend technology by building an app.",
     "skills": ["React", "Redux", "Tailwind CSS"],
     "demo": "https://resonant-platypus-424f98.netlify.app/",
     "source": "https://github.com/rishabh-prince/Food-Villa"

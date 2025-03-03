@@ -14,14 +14,17 @@ const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
             <div>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer.I specialize
-                in creating dynamic and user-centric web applications.I excel
-                in translating design concepts into responsive, visually
-                appealing interfaces and thrive on optimizing user experiences.
+                I’m a Full Stack Developer with a passion for building scalable,
+                high-performance web applications.I specialize in developing
+                both the front-end and back-end, seamlessly integrating the two
+                to create robust, dynamic user experiences.I focus on delivering
+                end-to-end solutions that are responsive, secure, and optimized
+                for performance. Whether it's working with databases, APIs, or
+                deploying applications, I thrive on taking projects from concept
+                to completion.
               </p>
             </div>
           </li>
