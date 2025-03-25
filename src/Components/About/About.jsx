@@ -1,4 +1,3 @@
-import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./About.module.css";
 
@@ -15,7 +14,7 @@ const About = () => {
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <div>
-              <h3>Frontend Developer</h3>
+              <h3>Full Stack Developer</h3>
               <p>
                 I’m a Full Stack Developer with a passion for building scalable,
                 high-performance web applications.I specialize in developing
