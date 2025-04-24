@@ -14,6 +14,19 @@
     "source": "https://github.com/rishabh-prince/connectify"
   },
   {
+    "title": "Imaging",
+    "imageSrc": "projects/project.png",
+    "description": "This is an AI powered text to image generation plateform made using MERN stack,Clipdrop API and razorpay payment integration",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB"
+    ],
+    "demo": "https://imaging-1.onrender.com",
+    "source": "https://github.com/rishabh-prince/imaging"
+  },
+  {
     "title": "Product Store",
     "imageSrc": "projects/project.png",
     "description": "This is a product store made using MERN stack in which we can perform CRUD operation on products.",
